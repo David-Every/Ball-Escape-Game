@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Moonlighter\Moonlighter\Assets\Tanner\Movement.cs">
+    <Files>
+      <File FileName="..\Moonlighter\Moonlighter\Assets\Tanner\Movement.cs" Line="5" Column="25" />
+      <File FileName="Assets\Scripts\Player\Char.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
